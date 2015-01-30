@@ -16,3 +16,4 @@ with the incline. In general fast speeds were 0.5 mph quicker.
 | 7           | 01/12/15        | 5.4          | 2.5      |
 | 8           | 01/19/15        | 5.5          | 2.5      |
 | 9           | 01/26/15        | 5.5          | 3.0      |
+| 10          | 02/02/15        | 5.6          | 3.0      |
